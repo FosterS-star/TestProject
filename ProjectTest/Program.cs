@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace ProjectTest
 {
     class Program
-    {
+    {//
         static void Main(string[] args)
         {
             int broj1;
