@@ -1,0 +1,7 @@
+C:\Users\Lenovo E540\source\repos\ProjectTest\ProjectTest\bin\Debug\ProjectTest.exe.config
+C:\Users\Lenovo E540\source\repos\ProjectTest\ProjectTest\bin\Debug\ProjectTest.exe
+C:\Users\Lenovo E540\source\repos\ProjectTest\ProjectTest\bin\Debug\ProjectTest.pdb
+C:\Users\Lenovo E540\source\repos\ProjectTest\ProjectTest\obj\Debug\ProjectTest.csprojAssemblyReference.cache
+C:\Users\Lenovo E540\source\repos\ProjectTest\ProjectTest\obj\Debug\ProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo E540\source\repos\ProjectTest\ProjectTest\obj\Debug\ProjectTest.exe
+C:\Users\Lenovo E540\source\repos\ProjectTest\ProjectTest\obj\Debug\ProjectTest.pdb
